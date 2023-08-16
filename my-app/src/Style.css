@@ -600,6 +600,7 @@ two
 }
 .footer__container {
   border-bottom: 0.15px solid #707070;
+  text-align: left;
 }
 
 .copyright > p {

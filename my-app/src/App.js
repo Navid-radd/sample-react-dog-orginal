@@ -7,6 +7,7 @@ import Gallery from './Gallery/Gallery';
 import Dogsitting from './DogSitting/Dogsitting';
 import Parallax from './Parallax/Parallax';
 import News from './News/News';
+import Footer from './Footer/Footer';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Dogsitting />
         <Parallax />
         <News />
+        <Footer />
       </div>
     </body>
   );
