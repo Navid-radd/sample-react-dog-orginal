@@ -474,13 +474,22 @@ two
   background-attachment: fixed;
   color: white;
   padding: 80px 3%;
+  background-size: cover;
+}
+#six h5 {
+  text-align: left;
+}
+#six button {
+  display: flex;
 }
 
 #six h1 {
+  text-align: left;
   font-size: 33px;
   font-weight: 600;
   line-height: 45px;
   letter-spacing: 1px;
+
   margin: 20px 0 20px 0;
 }
 

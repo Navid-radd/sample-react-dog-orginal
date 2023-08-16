@@ -6,20 +6,24 @@ import Article from './Article/Article';
 import Gallery from './Gallery/Gallery';
 import Dogsitting from './DogSitting/Dogsitting';
 import Parallax from './Parallax/Parallax';
+import News from './News/News';
 
 function App() {
   return (
-    <div className="App">
+    <body>
 
-      <Header />
-      <About />
-      <Blog />
-      <Article />
-      <Gallery />
-      <Dogsitting />
-      <Parallax />
+      <div className="App">
 
-    </div>
+        <Header />
+        <About />
+        <Blog />
+        <Article />
+        <Gallery />
+        <Dogsitting />
+        <Parallax />
+        <News />
+      </div>
+    </body>
   );
 }
 
